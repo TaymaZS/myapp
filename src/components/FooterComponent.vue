@@ -6,11 +6,9 @@
 
 <script>
 export default {
-  name: 'HelloWorld'
+  name: 'FooterComponent'
 }
 </script>
 <style scoped>
-  body {
-    background-color: black;
-  }
+
 </style>
